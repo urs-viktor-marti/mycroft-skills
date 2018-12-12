@@ -154,3 +154,6 @@
 [submodule "wikiquote"]
 	path = wikiquote
 	url = https://github.com/danielwine/wikiquote-skill
+[submodule "skill-swisscom-tv"]
+	path = skill-swisscom-tv
+	url = https://github.com/urs-viktor-marti/mycroft-skills/
