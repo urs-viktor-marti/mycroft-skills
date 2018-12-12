@@ -15,7 +15,7 @@ __author__ = 'Urs-Viktor Marti, Swisscom PMK-TV-EDQ'
 
 # Each skill is contained within its own class, which inherits base methods
 # from the MycroftSkill class.  You extend this class as shown below.
-LOGGER = getLogger(__name__)
+
 
 # TODO: Change "Template" to a unique name for your skill
 class SwisscomTVSkill(MycroftSkill):
